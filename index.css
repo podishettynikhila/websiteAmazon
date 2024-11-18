@@ -1,0 +1,27 @@
+.out{
+    border:solid 1px;
+    height: 30px;
+}
+#in1,#in2{
+    height: 150px;
+    border: solid 1px;
+    width: 1600px;
+}
+#in1{
+    margin-bottom:30px;
+    background-color: burlywood;
+    
+}
+#in2{
+    width: 1300px;
+
+}
+#in3{
+    border: solid 1px;
+    height: 150px;
+    width:1600px ;
+}
+
+p{
+    word-spacing: 220px;
+}
